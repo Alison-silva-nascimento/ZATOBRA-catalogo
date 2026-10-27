@@ -1,0 +1,21 @@
+ZATOBRA — Landing page e catálogo
+
+COMO ABRIR
+Abra index.html no navegador. Não é necessário instalar dependências.
+O arquivo ZATOBRA-Preview.html é a mesma página com CSS, JS e fotos incorporados.
+
+O QUE FUNCIONA
+Filtros, busca, ordenação por nome, favoritos, detalhes de produto, seleção de tamanho, sacola, quantidades, remoção e cópia da lista. Favoritos e sacola são salvos no navegador quando o armazenamento está disponível.
+
+ANTES DE PUBLICAR
+1. Em script.js, preencha CONFIG.whatsapp com DDI e DDD (somente dígitos).
+2. Substitua PRODUCTS pelos dados oficiais. Nomes e tamanhos atuais são exemplos, não representam estoque confirmado.
+3. Para futuras atualizações, troque as fotos de assets por arquivos originais em alta resolução. As imagens atuais vieram das fotos fornecidas em 26/10/2026. O banner utiliza um recorte da fotografia da modelo com camiseta clara.
+4. Todos os valores estão sob consulta. Não há pagamento online nem reserva de estoque.
+5. Confirme descrições, medidas, entrega, retirada e políticas com a loja.
+6. A marca no cabeçalho é tipográfica: substituir pelo logotipo original se fornecido.
+7. A fonte Google é opcional; sem internet há fallback para Arial. Todas as imagens estão incluídas localmente.
+
+PUBLICAÇÃO
+Envie index.html, style.css, script.js e assets juntos para sua hospedagem ou GitHub Pages.
+Edite os arquivos separados e gere novamente a prévia única se necessário.
